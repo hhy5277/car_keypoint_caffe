@@ -1,5 +1,6 @@
 ## Introduction
 | Backbone | Accuracy | time |
+|:-------|:-----:|:-------:|:-------:|
 |darknet | 98% | 10 ms/frame|
 
 ## License and Citation
