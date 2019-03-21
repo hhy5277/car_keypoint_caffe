@@ -246,7 +246,7 @@ namespace caffe {
                 // We have reached the end. Restart from the first.
                 DLOG(INFO) << "Restarting data prefetching from start.";
                 lines_id_ = 0;
-                if (this->layer_param_.image_data_param().shuffle())
+                if (this->layer_param_.heatmap_data_param().shuffle())
                 {
                     ShuffleImages();
                 }
