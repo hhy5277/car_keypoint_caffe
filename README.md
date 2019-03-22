@@ -2,6 +2,7 @@
 | Backbone | Accuracy | time |
 |:-------|:-----:|:-------:|
 |darknet | 98% | 10 ms/frame|
+
 ![车辆关键点]()
 ## License and Citation
 
